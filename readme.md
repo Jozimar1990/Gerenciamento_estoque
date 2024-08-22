@@ -5,3 +5,7 @@ adicione o arquivo criado à staging area do git com o comando git add --all
 verifique o resultado com o comando git status
 faça seu primeiro commit com o comando git commit -m "primeiro commit"
 verifique o resultado com os comandos git status e git log
+
+Aula 8 - exercício de fixação 4
+adicione conteúdo ao README e realize um segundo commit
+verifique o resultado com os comandos git status e git log
